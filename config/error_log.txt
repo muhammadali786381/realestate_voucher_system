@@ -1,0 +1,614 @@
+[21-Aug-2020 12:16:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\config\database.php on line 11
+[21-Aug-2020 12:16:42 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\config\database.php on line 11
+[22-Aug-2020 00:53:26 Europe/Berlin] PHP Warning:  Illegal string offset 'value' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\View.php on line 16
+[22-Aug-2020 00:53:42 Europe/Berlin] PHP Warning:  Illegal string offset 'value' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\View.php on line 16
+[22-Aug-2020 20:26:42 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:42 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: role in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 45
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:26:43 Europe/Berlin] PHP Notice:  Undefined index: role in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 45
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: role in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 45
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:26:44 Europe/Berlin] PHP Notice:  Undefined index: role in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 45
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: admin_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 41
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: full_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 42
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 43
+[22-Aug-2020 20:26:56 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: buidling_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 49
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 50
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: buidling_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: phone in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 49
+[22-Aug-2020 20:32:50 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 50
+[22-Aug-2020 20:33:15 Europe/Berlin] PHP Notice:  Undefined index: buidling_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:33:15 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 49
+[22-Aug-2020 20:33:15 Europe/Berlin] PHP Notice:  Undefined index: buidling_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 44
+[22-Aug-2020 20:33:15 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\party_apartment_list.php on line 49
+[22-Aug-2020 21:00:54 Europe/Berlin] PHP Notice:  Undefined index: appartment_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 29
+[22-Aug-2020 21:00:54 Europe/Berlin] PHP Warning:  Illegal string offset 'building_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 31
+[22-Aug-2020 21:01:35 Europe/Berlin] PHP Notice:  Undefined index: appartment_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 29
+[22-Aug-2020 21:01:35 Europe/Berlin] PHP Warning:  Illegal string offset 'building_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 31
+[22-Aug-2020 21:01:35 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_detail.php on line 38
+[22-Aug-2020 21:02:03 Europe/Berlin] PHP Notice:  Undefined index: appartment_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 29
+[22-Aug-2020 21:02:03 Europe/Berlin] PHP Warning:  Illegal string offset 'building_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 31
+[22-Aug-2020 21:02:03 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_detail.php on line 38
+[22-Aug-2020 21:02:03 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_detail.php on line 39
+[22-Aug-2020 21:02:24 Europe/Berlin] PHP Notice:  Undefined index: appartment_id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 29
+[22-Aug-2020 21:02:24 Europe/Berlin] PHP Warning:  Illegal string offset 'building_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 31
+[22-Aug-2020 21:02:24 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_detail.php on line 38
+[22-Aug-2020 21:02:24 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_detail.php on line 39
+[23-Aug-2020 21:50:41 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php:28) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\dashboard.php on line 6
+[23-Aug-2020 21:50:52 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php:28) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\dashboard.php on line 6
+[23-Aug-2020 22:00:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php:28) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\dashboard.php on line 7
+[23-Aug-2020 22:00:44 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php:28) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\dashboard.php on line 7
+[23-Aug-2020 22:02:08 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php:28) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\dashboard.php on line 7
+[23-Aug-2020 22:10:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 22
+[23-Aug-2020 22:34:36 Europe/Berlin] PHP Notice:  Undefined variable: table in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 7
+[23-Aug-2020 22:34:36 Europe/Berlin] PHP Notice:  Undefined variable: id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 7
+[23-Aug-2020 22:34:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:280
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php(7): Main->CountDataCondition('', NULL, NULL)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once('D:\\Install_Prog...')
+#2 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 280
+[23-Aug-2020 22:38:11 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:38:24 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:39:07 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:42:58 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:43:16 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:44:31 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:44:40 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:44:42 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:44:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function RedirectURL() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php:4
+Stack trace:
+#0 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php on line 4
+[23-Aug-2020 22:45:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function RedirectURL() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php:4
+Stack trace:
+#0 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php on line 4
+[23-Aug-2020 22:45:22 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:45:28 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:45:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function RedirectURL() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php:4
+Stack trace:
+#0 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\logout.php on line 4
+[23-Aug-2020 22:46:39 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[23-Aug-2020 22:50:34 Europe/Berlin] PHP Notice:  Undefined variable: no_of_pending_voucher in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\header.php on line 19
+[25-Aug-2020 00:01:23 Europe/Berlin] PHP Notice:  Undefined index: voucherId in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 109
+[25-Aug-2020 00:01:24 Europe/Berlin] PHP Notice:  Undefined index: uId in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 110
+[25-Aug-2020 00:02:32 Europe/Berlin] PHP Notice:  Undefined index: voucherId in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 109
+[25-Aug-2020 00:02:32 Europe/Berlin] PHP Notice:  Undefined index: uId in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 110
+[25-Aug-2020 00:12:42 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:12:42 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:12:43 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:12:43 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:13:01 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:13:01 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:11 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:11 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:20 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:20 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:44 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:44 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:45 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:45 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:46 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:46 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:47 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:47 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:48 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:48 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:48 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:48 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:49 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:49 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:50 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:50 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:51 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:51 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:51 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:51 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:52 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:52 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:53 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:53 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:54 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:54 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:54 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:55 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:55 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:55 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:56 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:56 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:57 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:57 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:57 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:57 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:58 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:58 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:14:59 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:14:59 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:00 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:00 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:00 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:00 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:01 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:01 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:19 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:19 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:19 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:19 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:20 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:20 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:21 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:21 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:22 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:22 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:15:29 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:15:29 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:16:11 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:16:11 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:16:20 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 00:16:20 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 00:16:40 Europe/Berlin] PHP Notice:  Undefined variable: id in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 17
+[25-Aug-2020 01:05:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 353
+[25-Aug-2020 01:29:28 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 01:29:28 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 01:29:35 Europe/Berlin] PHP Notice:  Undefined index: voucherid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 9
+[25-Aug-2020 01:29:35 Europe/Berlin] PHP Notice:  Undefined index: uid in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\v.php on line 10
+[25-Aug-2020 01:35:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'send_mail' (T_STRING) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 155
+[25-Aug-2020 01:35:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'send_mail' (T_STRING) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 155
+[25-Aug-2020 01:47:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getAllConditionRecords() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php:155
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(4): include_once()
+#1 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 155
+[25-Aug-2020 01:49:48 Europe/Berlin] PHP Warning:  A non-numeric value encountered in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 161
+[25-Aug-2020 01:49:48 Europe/Berlin] PHP Warning:  A non-numeric value encountered in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php on line 161
+[25-Aug-2020 01:49:50 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[25-Aug-2020 01:52:39 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[28-Aug-2020 03:16:05 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[30-Aug-2020 20:05:54 Europe/Berlin] PHP Notice:  Undefined variable: table in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:05:54 Europe/Berlin] PHP Notice:  Undefined variable: field in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:05:54 Europe/Berlin] PHP Notice:  Undefined variable: date_from in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:05:54 Europe/Berlin] PHP Notice:  Undefined variable: date_to in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:05:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:328
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php(367): Main->getDateRangeRecord(NULL, NULL, NULL, NULL)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php(3): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(4): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 328
+[30-Aug-2020 20:11:44 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[30-Aug-2020 20:12:35 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[30-Aug-2020 20:13:02 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[30-Aug-2020 20:18:17 Europe/Berlin] PHP Notice:  Undefined variable: table in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:18:17 Europe/Berlin] PHP Notice:  Undefined variable: field in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:18:17 Europe/Berlin] PHP Notice:  Undefined variable: date_from in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:18:17 Europe/Berlin] PHP Notice:  Undefined variable: date_to in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 367
+[30-Aug-2020 20:18:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:328
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php(367): Main->getDateRangeRecord('', NULL, NULL, NULL)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\processing.php(3): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(4): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 328
+[30-Aug-2020 21:21:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getDateRangeRecord() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php:109
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once()
+#1 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 109
+[30-Aug-2020 21:22:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getDateRangeRecord() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php:109
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once()
+#1 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 109
+[30-Aug-2020 21:22:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getDateRangeRecord() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php:109
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once()
+#1 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 109
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 19
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 19
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 21
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 21
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 22
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 22
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 23
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 23
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 24
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 24
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 25
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 25
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 29
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 29
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: building in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 31
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 31
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: apartment in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 32
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 32
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_amount_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 53
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_amount_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 56
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 56
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 81
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 81
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 83
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 83
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 106
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 108
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 108
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 128
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 128
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_create_by in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_create_by in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 138
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 138
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 146
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 146
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 148
+[30-Aug-2020 21:24:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 148
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 19
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 19
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 21
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 21
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 22
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 22
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 23
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 23
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 24
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 24
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 25
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 25
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 29
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 29
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_party_name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 30
+[30-Aug-2020 21:25:06 Europe/Berlin] PHP Notice:  Undefined variable: building in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 31
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 31
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: apartment in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 32
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 32
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_amount_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 53
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_amount_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 56
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 56
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 81
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 81
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 83
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 83
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 106
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_cheque_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 108
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 108
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 128
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 128
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_create_by in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: get_voucher_create_by in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 136
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 138
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 138
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 146
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 146
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 148
+[30-Aug-2020 21:25:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 148
+[30-Aug-2020 21:26:28 Europe/Berlin] PHP Notice:  Undefined variable: voucher_detail in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 8
+[30-Aug-2020 21:26:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 8
+[30-Aug-2020 22:34:18 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 66
+[30-Aug-2020 22:34:19 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 66
+[30-Aug-2020 22:34:19 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 66
+[30-Aug-2020 22:39:43 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 68
+[30-Aug-2020 22:39:43 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 68
+[30-Aug-2020 22:39:43 Europe/Berlin] PHP Warning:  Illegal string offset 'name' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 68
+[30-Aug-2020 22:45:18 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Main::getAllConditionRecords(), 3 passed in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 59 and at least 4 expected in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:98
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php(59): Main->getAllConditionRecords('voucher_amount_...', 'voucher_id', 10027)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php(111): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 98
+[30-Aug-2020 22:46:29 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Main::getAllConditionRecords(), 3 passed in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 59 and at least 4 expected in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:98
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php(59): Main->getAllConditionRecords('voucher_amount_...', 'voucher_id', 10027)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php(111): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 98
+[30-Aug-2020 22:46:30 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Main::getAllConditionRecords(), 3 passed in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 59 and at least 4 expected in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:98
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php(59): Main->getAllConditionRecords('voucher_amount_...', 'voucher_id', 10027)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php(111): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 98
+[30-Aug-2020 22:46:31 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Main::getAllConditionRecords(), 3 passed in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 59 and at least 4 expected in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php:98
+Stack trace:
+#0 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php(59): Main->getAllConditionRecords('voucher_amount_...', 'voucher_id', 10027)
+#1 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php(111): include_once('D:\\Install_Prog...')
+#2 D:\Install_Programs\XAMMP_2\htdocs\voucher_system\index.php(15): include_once('D:\\Install_Prog...')
+#3 {main}
+  thrown in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\Main.php on line 98
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Undefined variable: vat in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Undefined variable: vat in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Undefined variable: vat in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:05 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:27 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:28 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:28 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:28 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:28 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:29 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:29 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 60
+[30-Aug-2020 22:47:59 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 72
+[30-Aug-2020 22:47:59 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 72
+[30-Aug-2020 22:47:59 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 72
+[30-Aug-2020 22:48:23 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 73
+[30-Aug-2020 22:48:23 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 73
+[30-Aug-2020 22:48:23 Europe/Berlin] PHP Notice:  Undefined variable: vat_sum in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 73
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:13 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:31 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:31 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:31 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:31 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:32 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:50:32 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:01 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:01 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:01 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:22 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:22 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:22 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:24 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:24 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:51:24 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:00 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:01 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:01 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:02 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:02 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:02 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:02 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:03 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:03 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 62
+[30-Aug-2020 22:52:35 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:35 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:35 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:36 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:36 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:36 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:53 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:53 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:53 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:54 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:54 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:52:54 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, string given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:07 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Notice:  Undefined index: vat_amount in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:53:08 Europe/Berlin] PHP Warning:  array_sum() expects parameter 1 to be array, null given in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 63
+[30-Aug-2020 22:57:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 78
+[30-Aug-2020 22:58:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 79
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 101
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 102
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 101
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 102
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 101
+[30-Aug-2020 23:19:43 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 102
+[30-Aug-2020 23:20:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:20:54 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:12 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 98
+[30-Aug-2020 23:21:13 Europe/Berlin] PHP Warning:  Illegal string offset 'amount_type_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 99
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:57 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 100
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:26:58 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 97
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type int in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:31 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:31 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:33:31 Europe/Berlin] PHP Warning:  Illegal string offset 'voucher_id' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 91
+[30-Aug-2020 23:36:19 Europe/Berlin] PHP Notice:  Undefined variable: amt in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 92
+[30-Aug-2020 23:36:19 Europe/Berlin] PHP Notice:  Undefined variable: amt in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 92
+[30-Aug-2020 23:36:19 Europe/Berlin] PHP Notice:  Undefined variable: amt in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 92
+[30-Aug-2020 23:36:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 109
+[31-Aug-2020 00:24:03 Europe/Berlin] PHP Notice:  Undefined index:  in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 55
+[31-Aug-2020 00:24:03 Europe/Berlin] PHP Notice:  Undefined index:  in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 55
+[31-Aug-2020 00:24:03 Europe/Berlin] PHP Notice:  Undefined index:  in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 55
+[31-Aug-2020 00:26:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 55
+[31-Aug-2020 00:29:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 133
+[31-Aug-2020 00:31:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 134
+[31-Aug-2020 00:31:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 134
+[31-Aug-2020 00:32:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 132
+[31-Aug-2020 00:34:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 132
+[31-Aug-2020 00:55:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 111
+[31-Aug-2020 00:58:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 115
+[31-Aug-2020 01:10:58 Europe/Berlin] PHP Notice:  Undefined variable: balance in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\themes\default\voucher_summery.php on line 74
+[31-Aug-2020 01:11:32 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 01:15:10 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 111
+[31-Aug-2020 01:15:11 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 111
+[31-Aug-2020 01:16:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 111
+[31-Aug-2020 01:16:16 Europe/Berlin] PHP Notice:  Undefined index: v_date in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 112
+[31-Aug-2020 01:16:16 Europe/Berlin] PHP Notice:  Undefined index: v_date in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 112
+[31-Aug-2020 01:21:16 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:21:16 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:21:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:28 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:28 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:29 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:29 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:22:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:49 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:49 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:50 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:51 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:24:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:25:18 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:25:18 Europe/Berlin] PHP Notice:  Undefined variable: Array in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:25:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 113
+[31-Aug-2020 01:40:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 111
+[31-Aug-2020 01:42:48 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 01:44:20 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 01:46:05 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 12:58:16 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 12:59:32 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 14:11:54 Europe/Berlin] PHP Warning:  Illegal string offset 'open_balance' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 118
+[31-Aug-2020 14:12:49 Europe/Berlin] PHP Warning:  Illegal string offset 'open_balance' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 118
+[31-Aug-2020 14:13:12 Europe/Berlin] PHP Warning:  Illegal string offset 'open_balance' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 118
+[31-Aug-2020 14:18:12 Europe/Berlin] PHP Warning:  Illegal string offset 'open_balance' in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\get_request.php on line 118
+[31-Aug-2020 14:23:16 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
+[31-Aug-2020 14:26:48 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Install_Programs\XAMMP_2\htdocs\voucher_system\includes\general_functions.php on line 267
