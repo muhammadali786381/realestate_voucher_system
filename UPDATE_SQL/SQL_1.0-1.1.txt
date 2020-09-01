@@ -3,3 +3,6 @@ ALTER TABLE `vouchers` ADD `vat_amount` DECIMAL(15,2) NOT NULL DEFAULT '0.00' AF
 CREATE TABLE `voucher_account` ( `id` INT NOT NULL AUTO_INCREMENT , `account_type` ENUM('Cash','Cheque') NOT NULL , `account` VARCHAR(225) NOT NULL , `status` ENUM('Active','Deactive') NOT NULL DEFAULT 'Active' , `update_on` TIMESTAMP on update CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`id`)) ENGINE = InnoDB; 
 
 ALTER TABLE `voucher_account` ADD `open_balance` DECIMAL(15,2) NULL DEFAULT NULL AFTER `account`; 
+
+
+INSERT INTO `setting` (`id`, `key_value`, `value`, `description`) VALUES (NULL, 'APP_OPENING_BALANCE', '0', NULL) 
